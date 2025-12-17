@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.joinco.scanner",
+    "sha256_cert_fingerprints": [
+      "38:03:D7:95:91:7C:9C:EE:4A:A0:58:43:A7:43:A5:D2:76:52:EF:9B:3C:E3:F6:7A:96:C0:10:EC:93:52:2B:E6"
+    ]
+  }
+}]
