@@ -1,0 +1,8 @@
+include:
+  - .well-known
+```
+5. **Commit**
+
+**Poczekaj 2-3 minuty** i sprawdź ponownie:
+```
+https://scanner.quickkly.pl/.well-known/assetlinks.json
